@@ -1,1 +1,1 @@
-# uwtHackathon
+# UWT Hackathon
